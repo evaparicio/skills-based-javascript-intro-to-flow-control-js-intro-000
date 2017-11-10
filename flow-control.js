@@ -28,8 +28,8 @@ return age>=13 && age<=19 ? "You are a teenager" : "You are not a teenager"
 }
 
 
-var age =""
-switch (age){
+var age =
+switchAge (age){
   case "13":
     console.log ("You are a teenager");
   break;
